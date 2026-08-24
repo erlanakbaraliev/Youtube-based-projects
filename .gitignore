@@ -1,0 +1,11 @@
+__pycache__/
+.env/
+.venv/
+.coverage
+.pytest-cache/
+.ruff-cache/
+.sqlite3
+*.db
+.DS_Store
+.pyright
+.python-version
